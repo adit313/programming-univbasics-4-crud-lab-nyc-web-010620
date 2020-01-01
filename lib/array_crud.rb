@@ -8,7 +8,7 @@ def create_an_array
   my_array << 'B'
   my_array << 'C'
   my_array << 'D'
-  Return my_array
+  return my_array
 end
 
 def add_element_to_end_of_array(array, element)
